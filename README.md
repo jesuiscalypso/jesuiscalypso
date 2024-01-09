@@ -8,7 +8,7 @@ I like tabletop roleplaying games, and dabble in writing from time to time. My h
 - 🌱 I’m currently learning Flutter!
 - 📫 How to reach me: Find me in the wilderness. I don't like being perceived.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I thought reading about HTML for two weeks would prepare me more than enough for my first year of college.
+- ⚡ Fun fact: I thought reading about HTML for two weeks would give me all the knowledge I needed for my first year of college.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
