@@ -1,11 +1,11 @@
 ### Howdy!
 
-I'm a computer science major with a a love for automation and cybersecurity. I like developing little tools that help people out in their day to day lives.
+I'm a computer science major with a love for automation and cybersecurity. I like developing little tools that help people out in their day to day lives.
 
 I like tabletop roleplaying games, and dabble in writing from time to time. My hobbies are reading, playing games and, predictably, coding a whole bunch.
 
 - 🔭 I’m currently working on Dicey, a GUI TTRPG dice roller written in Python.
-- 🌱 I’m currently learning Astro!
+- 🌱 I’m currently learning React Native!
 - 📫 How to reach me: Find me in the wilderness. I don't like being perceived.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I thought reading about HTML for two weeks would give me all the knowledge I needed for my first year of college.
