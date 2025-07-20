@@ -4,7 +4,7 @@ I'm a computer science major with a love for automation and cybersecurity. I lik
 
 I like tabletop roleplaying games, and dabble in writing from time to time. My hobbies include reading, playing games and, predictably, coding a whole bunch.
 
-- 🔭 I’m currently working on Doight, a GUI autoclicker for idle games.
+- 🔭 I’m currently working on Doigt, a GUI autoclicker for idle games.
 - 🌱 I’m currently learning NeoVim!
 - 📫 How to reach me: Shoot me a message through my socials.
 - 😄 Pronouns: he/him
