@@ -1,8 +1,8 @@
 ### Howdy!
 
-I'm a computer science major with a love for automation and cybersecurity. I like developing little tools that help people out in their day to day lives.
+I'm a computer science graduate with a deep love for automation and cybersecurity. I like making little tools that help people out on their day to day lives.
 
-I like tabletop roleplaying games, and dabble in writing from time to time. My hobbies include reading, playing games and, predictably, coding a whole bunch.
+I like tabletop roleplaying games, and dabble in writing from time to time. My hobbies include reading, gaming and predictably, coding a whole bunch.
 
 - 🔭 I’m currently working on Doigt, a GUI autoclicker for idle games.
 - 🌱 I’m currently learning NeoVim!
