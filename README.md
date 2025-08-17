@@ -1,6 +1,6 @@
 ### Howdy!
 
-I'm a developer with a deep love for automation and cybersecurity. I like making little tools that help people out on their daily tasks.
+I'm a developer with a deep love for automation and cybersecurity. I like making little tools that solve particular problems.
 
 I like tabletop roleplaying games, and dabble in writing from time to time. My hobbies include reading, gaming and predictably, coding a whole bunch.
 
